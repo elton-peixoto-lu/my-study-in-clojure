@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomFileTypes">
+    <file url="file://$PROJECT_DIR$/src/fibonacci.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/hours.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/json_babashka.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/lucians_luscious_lasagna.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/multtable.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/nu_year.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/treadlast.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/test/lucians_luscious_lasagna_test.clj" value="BABASHKA" />
+  </component>
+</project>

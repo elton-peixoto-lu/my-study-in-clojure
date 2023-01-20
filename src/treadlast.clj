@@ -1,0 +1,6 @@
+(ns treadlast)
+(->> (range)
+     (map #(* % %))
+     (filter even?)
+     (take 10)
+     (reduce +))
