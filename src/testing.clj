@@ -1,0 +1,4 @@
+(ns testing)
+(get {:a 1 :b 2 :c 3} :a)
+
+(let teste [:teste] )

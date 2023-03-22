@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CustomFileTypes">
+    <file url="file://$PROJECT_DIR$/src/alunos.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/deleting_aws.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/fibonacci.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/func_one.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/hours.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/idaide_sum.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/json_babashka.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/lucians_luscious_lasagna.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/mais_menos.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/media_soma_nomes.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/multtable.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/nu_year.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/quadractic.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/testing.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/testing_api.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/src/tread_macro.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/src/treadlast.clj" value="BABASHKA" />
     <file url="file://$PROJECT_DIR$/test/lucians_luscious_lasagna_test.clj" value="BABASHKA" />
   </component>
