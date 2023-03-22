@@ -4,9 +4,9 @@
 ;;(def part-nucket {:name "s3://nu-keysets-br-staging"})
 
 
-(def user-map {:fname "s3://nu-keysets-br-staging"})
+(def user-map {:fname "s3://"})
 
-(def map-map {:part-nucket "certificates/pri/services/isa-dummy-2/metadata.json"
+(def map-map {:part-nucket ".json"
               })
 (def name
   (str (:fname user-map) (:part-nucket map-map)))
